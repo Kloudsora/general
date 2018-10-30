@@ -1,0 +1,54 @@
+    /* Styling  */
+
+
+
+
+/* container style */
+
+<div class="container">
+
+#main-bio {
+    width: 70%
+}
+
+#contact-info {
+    width: 90%;
+}
+
+#bio-image  {}
+
+
+body {
+    background-color: #1f1972;
+    font-family: "Times New Roman", Times, serif;
+    color: #afa6a6;
+    margin: 0px 0px 0px 0px;
+    padding: 0;
+    line-height: 37px;
+    font-size: 25px;
+
+}
+a:hover {
+    color: hotpink;
+}
+
+h3 {
+
+    background-color: #5e133e
+
+}
+
+h1 {
+
+    color: rgb(238, 238, 238);
+    font-size: 28px
+    
+}
+
+.image {
+    margin: 50px 0px 50px 0px;
+}
+
+.head2 {}
+
+
